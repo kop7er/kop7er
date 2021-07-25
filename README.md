@@ -2,4 +2,4 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kop7er&theme=dark&show_icons=true&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Top Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Kop7er&theme=dark&show_icons=true&count_private=true&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&include_all_commits=true)
